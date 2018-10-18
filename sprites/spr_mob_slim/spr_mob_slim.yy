@@ -2,7 +2,7 @@
     "id": "d0678601-d3b9-46e1-93ab-9a9abc21831d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite9",
+    "name": "spr_mob_slim",
     "For3D": false,
     "HTile": false,
     "VTile": false,

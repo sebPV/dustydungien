@@ -258,7 +258,7 @@
             "Key": "d0678601-d3b9-46e1-93ab-9a9abc21831d",
             "Value": {
                 "id": "87841527-98d7-4166-ac4a-10956af2b71f",
-                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourcePath": "sprites\\spr_mob_slim\\spr_mob_slim.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -292,6 +292,14 @@
                 "id": "70ae2ff9-2d8a-4dd1-899f-e7b74a41f6d0",
                 "resourcePath": "rooms\\vig_room\\vig_room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "de584faf-46c2-496e-a995-43d8d68856c4",
+            "Value": {
+                "id": "3180ffc1-c8f1-4ca5-bf53-4947718089fc",
+                "resourcePath": "objects\\OBJ_wall\\OBJ_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {

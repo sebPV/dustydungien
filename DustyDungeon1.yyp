@@ -266,7 +266,7 @@
             "Key": "f30d9b43-1d0b-4c70-8126-8ac90db00360",
             "Value": {
                 "id": "6a611c5c-9ff0-49de-b169-1e9733771175",
-                "resourcePath": "sprites\\spr\\spr.yy",
+                "resourcePath": "sprites\\spr_player_walk\\spr_player_walk.yy",
                 "resourceType": "GMSprite"
             }
         }

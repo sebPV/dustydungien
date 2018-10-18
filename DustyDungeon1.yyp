@@ -239,6 +239,22 @@
             }
         },
         {
+            "Key": "e76933fa-387a-4687-8202-7625597bc24f",
+            "Value": {
+                "id": "8568f0b9-020c-44a1-aa3d-717216200264",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "ef6eef4d-4abd-4ce3-8e68-8d9161a53364",
+            "Value": {
+                "id": "4fed7a64-b690-4b3e-a985-9411f07406ac",
+                "resourcePath": "objects\\TEST\\TEST.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f27e4541-5c05-4f96-b33c-397006a1164c",
             "Value": {
                 "id": "d06abf68-055a-4f72-a997-d103f89a3bcc",

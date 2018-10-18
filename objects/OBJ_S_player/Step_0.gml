@@ -61,9 +61,22 @@ if (!place_meeting(x,y+1,OBJ_wall))
 {
 	sprite_index = SPR_V_player_idle
 	image_speed = 0
-	if (sign(VSP)> 0) image_index = 1 
+	if (sign(VSP)> 0) image_index = 1 else image_index = 0 
 }
-
+else
+{
+	image_speed = 1
+	if (HSP == 0)
+	{
+		sprite_index = SPR_V_player_idle
+	}
+	else
+	{
+		sprite_index = spr_player_walk
+	}
+	
+}
+if (HSP != 0) image_xscale = sign(HSP)
 
 
 

@@ -245,6 +245,14 @@
                 "resourcePath": "views\\f27e4541-5c05-4f96-b33c-397006a1164c.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "f30d9b43-1d0b-4c70-8126-8ac90db00360",
+            "Value": {
+                "id": "6a611c5c-9ff0-49de-b169-1e9733771175",
+                "resourcePath": "sprites\\spr\\spr.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [

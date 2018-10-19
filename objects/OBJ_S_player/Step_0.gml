@@ -53,10 +53,9 @@ if (place_meeting(x,y+VSP,OBJ_wall))
 };
 y = y + VSP
 
-if (keyboard_check(ord("d")))
-{
 
-}
+
+//animation
 if (!place_meeting(x,y+1,OBJ_wall))
 {
 	sprite_index = SPR_V_player_idle

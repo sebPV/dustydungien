@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-hsp = 0
-vsp = 0
-grv = 0
+HSP = 0
+VSP = 0
+VSP = 0

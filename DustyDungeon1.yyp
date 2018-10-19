@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "56694504-00a8-44bb-828d-f305fdc84f5e",
-            "Value": {
-                "id": "9ce5bd44-d4d4-4006-8996-8c544a8d0f68",
-                "resourcePath": "views\\56694504-00a8-44bb-828d-f305fdc84f5e.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "5b7d519f-c34c-420c-af34-19b25fab322b",
             "Value": {
                 "id": "f7b19f20-fce9-4e61-9b83-71e6f850ec18",
@@ -195,6 +187,14 @@
             "Value": {
                 "id": "4d10883d-f1d5-4f97-b8ef-27dac62021cc",
                 "resourcePath": "sprites\\SPR_V_boss_kraken\\SPR_V_boss_kraken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b83c7aef-693e-4e3c-b765-8b8172392fca",
+            "Value": {
+                "id": "062dd97c-b19c-4534-8a9a-b0a0f78bcee3",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
                 "resourceType": "GMSprite"
             }
         },
